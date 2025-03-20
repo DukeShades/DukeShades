@@ -1,5 +1,12 @@
-- I am the "Vituoso"; thy @DukeShades
+Thy 『DUKE』! the Virtuoso!
 
-  I usually work on smaller personal projects; but I'll browse GitHub frequently.
-  As of now, I'm working on some Mods for Terraria as a way to practice C#; once I'm done, I'll probably look into Python.
-I'm still learning...
+Currently Updating some of my stuff, but keep an eye out! I work on Several things:
+
+I practice C# and Cybersecurity – I also mess around on Unity
+
+I also work on 3d modeling and animation, usually on Blender (my beloved)
+
+And ocassionally i Write, usually for projects that revolve around Unity and Blender; but they are stories in their own right.
+
+My works will be put up here shortly, but again, This account is just on standby until I finish some backend work.
+
